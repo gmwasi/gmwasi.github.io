@@ -1,0 +1,368 @@
+	<section id="portfolio">
+		<div class="container">
+			<div class="row">
+				<div class="hero col-sm-6 col-sm-offset-3">
+					<h2>Projects</h2>
+					<p>Projects I worked on</p>
+					<div class="space"></div>
+				</div>
+			</div>
+			<div class="filter text-center">
+				<a href="#" data-group="graphics">Graphics</a>
+				<a href="#" data-group="web">Web</a>
+				<a href="#" data-group="mockup">Mockup</a>
+				<a href="#" data-group="all" class="current">All</a>
+			</div>
+			
+		</div>
+
+		<div class="portfolio-wrapper">
+			<div class="container">
+				<div class="portfolio-close"><span>close</span></div>
+				<div class="portfolio-container"></div>
+				<div class="arrow-up"></div>
+			</div>
+		</div>
+		
+		<div class="portfolio-grid row">
+			<div class="col-sm-4" data-group="graphics,web">
+				<div class="portfolio-link">
+					<div class="portfolio-hover">
+						<div class="img"><img src="img/portfolio/port-1.jpg" alt=""></div>
+						<div class="info dark">
+							<h2>Photoshop Text Effect</h2>
+							<p>Graphics | Web</p>
+						</div>
+					</div>
+
+					<div class="portfolio-content">
+						<h2>Photoshop Text Effect</h2>
+						<div class="row">
+							<div class="col-md-8">
+								<div id="carousel-port" class="owl-carousel owl-portfolio">
+									<div class="item"><img class="lazyOwl img-responsive" data-src="img/portfolio/port-1-2.jpg" src="#" alt="" />
+									</div>
+									<div class="item"><img class="lazyOwl img-responsive" data-src="img/portfolio/port-1-3.jpg" src="#" alt="" />
+									</div>
+									<div class="item"><img class="lazyOwl img-responsive" data-src="img/portfolio/port-1-4.jpg" src="#" alt="" />
+									</div>
+								</div>
+								<h5>PROJECT DESCRIPTION</h5>
+								<div class="description">
+									<p>
+										Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.
+										<br/>
+										This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century.
+									</p>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="client">
+									<h5>CLIENT NAME</h5>
+									<p>
+										Client A
+									</p>
+								</div>
+								<div class="date">
+									<h5>TIMEFRAME</h5>
+									<p>
+										August 2011 - June 2012
+									</p>
+								</div>
+								<div class="url">
+									<h5>URL</h5>
+									<p>
+										<a href="#">www.thecompany.com</a>
+									</p>
+								</div>
+								<div class="tags">
+									<h5>TAGS</h5>
+									<p>
+										<span class="tagIcon">Cover</span><span class="tagIcon">Art</span><span class="tagIcon">Mockup</span>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div><!--portfolio-content-->
+				</div>
+			</div>
+			
+			<div class="col-sm-4" data-group="mockup">   
+				<div class="portfolio-link">
+					<div class="portfolio-hover">
+						<div class="img"><img src="img/portfolio/port-2.jpg" alt=""></div>
+						<div class="info dark">
+							<h2>Project for Client B</h2>
+							<p>Mockup</p>
+						</div>
+					</div>
+
+					<div class="portfolio-content">
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2">
+								<h2>Portfolio Client B</h2>
+								<img src="img/portfolio/port-2-2.jpg" class="img-responsive" alt="" />
+								<h5>PROJECT DESCRIPTION</h5>
+								<div class="description">
+									<p>
+										This is the small version of a portfolio. <br>
+										Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div><!--portfolio-content-->
+				</div>
+			</div>
+			
+			<div class="col-sm-4" data-group="web,mockup,graphics">  
+				<div class="portfolio-link">
+					<div class="portfolio-hover">
+						<div class="img"><img src="img/portfolio/port-3.jpg" alt=""></div>
+						<div class="info dark">
+							<h2>Big Project</h2>
+							<p>Web | Mockup | Graphics</p>
+						</div>
+					</div>
+
+					<div class="portfolio-content">
+						<h2 class="text-center">Big Project</h2>
+						<div class="row">
+							<div class="col-sm-4 text-center">
+								<div class="client">
+									<h5>CLIENT NAME</h5>
+									<p>
+										Client A
+									</p>
+								</div>
+							</div>
+							<div class="col-sm-4 text-center">
+								<div class="date">
+									<h5>TIMEFRAME</h5>
+									<p>
+										August 2011 - June 2012
+									</p>
+								</div>
+							</div>
+							<div class="col-sm-4 text-center">
+								<div class="url">
+									<h5>URL</h5>
+									<p>
+										<a href="#">www.thecompany.com</a>
+									</p>
+								</div>
+							</div>
+						</div>
+						
+						<hr class="invisible">
+						
+						<h5 class="text-center">PROJECT DESCRIPTION</h5>
+						<div class="description">
+							<p class="text-center">
+								Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.
+								<br/>
+								This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century.
+							</p>
+						</div>
+						
+						<hr class="invisible">
+						
+						<div class="row">
+							<div class="col-sm-6">
+								<img class="img-responsive" src="img/portfolio/port-3-2.jpg" alt="" />
+							</div>
+							<div class="col-sm-6">
+								Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.
+								<ul class="list-unstyled">
+									<li><i class="fa fa-check"></i> Dummy Text Feature 1</li>
+									<li><i class="fa fa-check"></i> This is another feature</li>
+									<li><i class="fa fa-check"></i> Wow a third one</li>
+								</ul>
+							</div>
+						</div>
+						
+						<hr class="invisible">
+						
+						<div class="row">
+							<div class="col-sm-6">
+								Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.
+								<br>
+								It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century. 
+							</div>
+							<div class="col-sm-6">
+								<img class="img-responsive" src="img/portfolio/port-3-3.jpg" alt="" />
+							</div>
+						</div>
+						
+						<hr class="invisible">
+						
+						<div class="tags">
+							<h5>TAGS</h5>
+							<p>
+								<span class="tagIcon">Cover</span><span class="tagIcon">Art</span><span class="tagIcon">Mockup</span>
+							</p>
+						</div>
+					</div><!--portfolio-content-->
+				</div>
+			</div>
+			
+			<div class="col-sm-4" data-group="web">   
+				<div class="portfolio-link">
+					<div class="portfolio-hover">
+						<div class="img"><img src="img/portfolio/port-4.jpg" alt=""></div>
+						<div class="info dark">
+							<h2>App Design</h2>
+							<p>Web</p>
+						</div>
+					</div>
+
+					<div class="portfolio-content">
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2">
+								<h2>App Design</h2>
+								<img class="img-responsive" src="img/portfolio/port-4-2.jpg" alt="" />
+								<div class="row">
+									<div class="col-md-4">
+										<div class="date">
+											<h5>TIMEFRAME</h5>
+											<p>
+												August 2011 - June 2012
+											</p>
+										</div>
+										<div class="url">
+											<h5>URL</h5>
+											<p>
+												<a href="#">www.thecompany.com</a>
+											</p>
+										</div>
+									</div>
+									<div class="col-md-8">
+										<h5>PROJECT DESCRIPTION</h5>
+										<div class="description">
+											<p>
+												Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div><!--portfolio-content-->
+				</div>
+			</div>
+			
+			<div class="col-sm-4" data-group="graphics,mockup">   
+				<div class="portfolio-link">
+					<div class="portfolio-hover">
+						<div class="img"><img src="img/portfolio/port-5.jpg" alt=""></div>
+						<div class="info dark">
+							<h2>PSD Mockup</h2>
+							<p>Graphics | Mockup</p>
+						</div>
+					</div>
+
+					<div class="portfolio-content">
+						<h2>PSD Mockup</h2>
+						<div class="row">
+							<div class="col-md-8">
+								<div class="video-container">
+									<iframe src="http://player.vimeo.com/video/25708134?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" style="border-width:0px"></iframe>
+								</div>	
+								<h5>PROJECT DESCRIPTION</h5>
+								<div class="description">
+									<p>
+										Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.
+										<br/>
+										This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century.
+									</p>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="client">
+									<h5>CLIENT NAME</h5>
+									<p>
+										Client A
+									</p>
+								</div>
+								<div class="date">
+									<h5>TIMEFRAME</h5>
+									<p>
+										August 2011 - June 2012
+									</p>
+								</div>
+								<div class="url">
+									<h5>URL</h5>
+									<p>
+										<a href="#">www.thecompany.com</a>
+									</p>
+								</div>
+								<div class="tags">
+									<h5>TAGS</h5>
+									<p>
+										<span class="tagIcon">Cover</span><span class="tagIcon">Art</span><span class="tagIcon">Mockup</span>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div><!--portfolio-content-->
+				</div>
+			</div>
+			
+			<div class="col-sm-4" data-group="web,mockup">   
+				<div class="portfolio-link">
+					<div class="portfolio-hover">
+						<div class="img"><img src="img/portfolio/port-6.jpg" alt=""></div>
+						<div class="info dark">
+							<h2>The Shirt</h2>
+							<p>Web | Mockup</p>
+						</div>
+					</div>
+					
+					<div class="portfolio-content">
+						<h2>The Shirt</h2>
+						<div class="row">
+							<div class="col-md-8">
+								<img class="img-responsive" src="img/portfolio/port-6-2.jpg" alt="" />
+
+								<h5>PROJECT DESCRIPTION</h5>
+								<div class="description">
+									<p>
+										Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.
+										<br/>
+										This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century.
+									</p>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="client">
+									<h5>CLIENT NAME</h5>
+									<p>
+										Client A
+									</p>
+								</div>
+								<div class="date">
+									<h5>TIMEFRAME</h5>
+									<p>
+										August 2011 - June 2012
+									</p>
+								</div>
+								<div class="url">
+									<h5>URL</h5>
+									<p>
+										<a href="#">www.thecompany.com</a>
+									</p>
+								</div>
+								<div class="tags">
+									<h5>TAGS</h5>
+									<p>
+										<span class="tagIcon">Cover</span><span class="tagIcon">Art</span><span class="tagIcon">Mockup</span>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div><!--portfolio-content-->
+				</div>
+			</div>
+			
+		</div>	
+	</section>
